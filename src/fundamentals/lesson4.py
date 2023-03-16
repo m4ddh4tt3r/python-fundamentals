@@ -157,4 +157,4 @@ def basic_input_demo():
     print(f'{name} is {feet} feet {inches} inches tall.')
 
 
-basic_input_demo() 
+basic_input_demo()
