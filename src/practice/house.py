@@ -45,10 +45,31 @@ class House:
         print(f'The {self._door_color} door is open.')
 
 
+class Condo(House):
+    def __init__(self, foundation_type: str, roof_style: str, door_color: str,
+                 window_size: int, balcony: str):
+        super().__init__(foundation_type, roof_style, door_color, window_size)
+        self._balcony = balcony
+
+    @property
+    def balcony(self) -> str:
+        return self._balcony
+
+    @balcony.setter
+    def balcony(self, balcony_style):
+        self._balcony = balcony_style
+
+    def maintenance(self):
+        print(f'We will be up to fix your {self._balcony} balcony')
+
+
 def main():
     my_house = House('Concrete', 'Composite', 'Red', 34)
     my_house.door_function()
     print(my_house.roof)
+    my_condo = Condo('brick', 'steel', 'yellow', 43, 'medium sized')
+    my_condo.door_function()
+    my_condo.maintenance()
 
 
 if __name__ == '__main__':
