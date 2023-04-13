@@ -37,7 +37,7 @@ class Mustang(Horse):
         super().__init__(name, age, breed)
         self._size = size
 
-    def behavior2(self):
+    def behavior(self):
         print(f"{self._name} is spooked by a Poe.")
 
     @property
@@ -54,7 +54,7 @@ def main():
     my_horse.behavior()
     print(f'{my_horse.name} is a {my_horse.breed}.')
     my_horse2 = Mustang('Dax', 7, 'Mustang', '13 Hands')
-    my_horse2.behavior2()
+    my_horse2.behavior()
     print(f'{my_horse2.name} is {my_horse2.size} tall.')
 
 
