@@ -7,18 +7,18 @@ In this project, I am learning the fundamentals of Python. Below I will provide 
   - Setting up my Environment
   - My First Repository
 - Python Fundamentals
-  - Lesson 1 - My First Application
-  - Lesson 2 - Introduction to Python
-  - Lesson 3 - All about Strings
-  - Lesson 4 - All about Numbers
-  - Lesson 5 - Operators
-  - Lesson 6 - Control Flow Statements
-  - Lesson 7 - Looping Statements
-  - Lesson 8 - Collections - Lists & Tuples
-  - Lesson 9 - Collections - Set & Dictionary
-  - Lesson 10 - Classes, Methods, & Method Arguments
-  - Lesson 11 - Encapsulation
-  - Lesson 12 - Inheritance & Polymorphism
-  - Lesson 13 - Exception Handling
-  - Lesson 14 - Modules, Imports, & Packages
-  - Lesson 15 - Testing your Code
+  - [Lesson 1 - My First Application](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/hello.py)
+  - [Lesson 2 - Introduction to Python](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson2.py)
+  - [Lesson 3 - All about Strings](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson3.py)
+  - [Lesson 4 - All about Numbers](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson4.py)
+  - [Lesson 5 - Operators](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson5.py)
+  - [Lesson 6 - Control Flow Statements](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson6.py)
+  - [Lesson 7 - Looping Statements](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson7.py)
+  - [Lesson 8 - Collections - Lists & Tuples](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson8.py)
+  - [Lesson 9 - Collections - Set & Dictionary](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson9.py)
+  - [Lesson 10 - Classes, Methods, & Method Arguments](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson10.py)
+  - [Lesson 11 - Encapsulation](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson11.py)
+  - [Lesson 12 - Inheritance & Polymorphism](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson12.py)
+  - [Lesson 13 - Exception Handling](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson13.py)
+  - [Lesson 14 - Modules, Imports, & Packages](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson14.py)
+  - [Lesson 15 - Testing your Code](https://github.com/m4ddh4tt3r/python-fundamentals/blob/main/src/fundamentals/lesson15.py)
